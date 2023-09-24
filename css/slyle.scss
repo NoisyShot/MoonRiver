@@ -1,6 +1,7 @@
 * {
    margin: 0;
    padding: 0;
+
  }
 .display_n {
    display: none;
@@ -489,3 +490,28 @@ background: #E5E5E5;
       margin-bottom: 15px;
    }
 }
+
+@font-face {
+   // Segoe UI 
+   font-weight: 400; 
+   font-family: "Segoe UI"; 
+   src: url("../fonts/Segoe UI/Segoe\ UI.ttf"); 
+   }; 
+@font-face {
+   // Segoe UI bold
+   font-weight: 700; 
+   font-family: "Segoe UI"; 
+   src: url("../fonts/Segoe UI/Segoe\ UI\ Bold.ttf"); 
+   };
+@font-face {
+   // Segoe UI 
+   font-weight: 400; 
+   font-family: "Segoe UI"; 
+   src: url("../fonts/Segoe UI/Segoe\ UI\ Bold\ Italic.ttf");
+   }; 
+@font-face {
+   // Segoe UI 
+   font-weight: 400; 
+   font-family: "Segoe UI"; 
+   src: url("../fonts/Segoe UI/Segoe\ UI\ Italic.ttf");
+}; 
